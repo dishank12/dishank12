@@ -9,7 +9,7 @@ and I'm constantly learning new tools and technologies to improve my skills.
 - 🔧 Tech Stack: Python, Git, SQL, Networking.
 - 🛠 Tools: VS Code, GitHub, Linux, Anaconda, Spyder, Docker.
 - 👯 I’m looking to collaborate on: Open source Python projects
-- 📫 How to reach me: dishankagrawal05@gmail.com or LinkedIn linkedin.com/in/dishank-agrawal-3005412ba
+- 📫 How to reach me: dishankagrawal05@gmail.com or LinkedIn www.linkedin.com/in/dishank-agrawal-3005412ba
 
 
 
